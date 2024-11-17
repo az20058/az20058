@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/redux toolkit-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/zustand-%237D8084.svg?&style=for-the-badge&logo=automatic&logoColor=white" />
   <img src="https://img.shields.io/badge/Tanstack Query-%23C11920.svg?&style=for-the-badge&logo=winmate&logoColor=white" />
-  <img src="https://img.shields.io/badge/vite-%#646CFF.svg?&style=for-the-badge&logo=ibm%20watson&logoColor=black" />
+  <img src="https://img.shields.io/badge/vite-%23BE95FF.svg?&style=for-the-badge&logo=vite&logoColor=black" />
 </div>
 
 <div align="center">
