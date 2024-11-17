@@ -12,19 +12,19 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/zustand-%237D8084.svg?&style=for-the-badge&logo=automatic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tanstack-Query-%23C11920.svg?&style=for-the-badge&logo=winmate&logoColor=white" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/zustand-%237D8084.svg?&style=for-the-badge&logo=automatic&logoColor=white" />
-  
 </div>
 
 <br>
@@ -48,12 +48,12 @@
 <h3 align="center">📧 Contact 📧</h3>
 <div align="center">
   <a href="https://www.instagram.com/yechanss__/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/yechanss__-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:az20058@naver.com">
-    <img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" />
+    <img src="https://img.shields.io/badge/az20058-%2303C75A.svg?&style=for-the-badge&logo=naver&logoColor=white" />
   </a>
   <a href="mailto:az200058@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/az200058-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
