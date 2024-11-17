@@ -13,7 +13,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux toolkit-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/zustand-%237D8084.svg?&style=for-the-badge&logo=automatic&logoColor=white" />
   <img src="https://img.shields.io/badge/Tanstack Query-%23C11920.svg?&style=for-the-badge&logo=winmate&logoColor=white" />
 </div>
