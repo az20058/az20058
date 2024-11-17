@@ -20,6 +20,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/zustand-%237D8084.svg?&style=for-the-badge&logo=automatic&logoColor=white" />
+  
+</div>
+
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
