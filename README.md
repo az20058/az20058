@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/redux toolkit-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/zustand-%237D8084.svg?&style=for-the-badge&logo=automatic&logoColor=white" />
   <img src="https://img.shields.io/badge/Tanstack Query-%23C11920.svg?&style=for-the-badge&logo=winmate&logoColor=white" />
-  <img src="https://img.shields.io/badge/vite-%23BE95FF.svg?&style=for-the-badge&logo=vite&logoColor=yellow" />
 </div>
 
 <div align="center">
@@ -42,7 +41,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/eslint-%234B32C3.svg?&style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?&style=for-the-badge&logo=prettier&logoColor=black" />
-  
+  <img src="https://img.shields.io/badge/vite-%23BE95FF.svg?&style=for-the-badge&logo=vite&logoColor=yellow" />
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
