@@ -40,7 +40,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://www.instagram.com/yechanss__/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=yehcnass__&logoColor=white" />
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:az20058@naver.com">
     <img src="https://img.shields.io/badge/naver-%2303C75A.svg?&style=for-the-badge&logo=az20058&logoColor=white" />
