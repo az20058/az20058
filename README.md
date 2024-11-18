@@ -60,9 +60,10 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=az20058)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-
-
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=az20058)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
