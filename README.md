@@ -59,7 +59,6 @@
     <img src="https://img.shields.io/badge/az200058-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=az20058)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=az20058)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=az20058)](https://github.com/anuraghazra/github-readme-stats)
 
