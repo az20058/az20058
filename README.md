@@ -54,13 +54,11 @@
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=az20058&show_icons=true&theme=transparent" alt="Yechan's GitHub stats" height="200"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=az20058" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=az20058" alt="Top Langs" height="200"/>
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=az20058&show_icons=true&theme=transparent" alt="Yechan's GitHub stats" />
-</div>
 
 
