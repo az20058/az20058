@@ -54,8 +54,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=az20058&show_icons=true&theme=transparent" alt="Yechan's GitHub stats" height="180" width="400"/>  
+<div align="center">  
   <a href="https://solved.ac/az20058/">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=az20058" alt="Solved.ac Profile" height="180" width="350"/>
   </a>
